@@ -14,7 +14,7 @@
 - :telescope: Только начинаю програмировать.
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Nocxelll)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Nocxel-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Nocxelll)
 
 ---
 
